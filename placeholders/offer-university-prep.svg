@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480">
+  <rect width="720" height="480" fill="#f3ede1"/>
+  <rect x="14" y="14" width="692" height="452" fill="none" stroke="#a8c2b6" stroke-width="2"/>
+  <rect x="22" y="22" width="676" height="436" fill="none" stroke="#e9decb" stroke-width="1"/>
+  <text x="360" y="240" font-family="'Iowan Old Style','Songti SC','SimSun',serif" font-size="269" fill="#4a6558" opacity="0.85" text-anchor="middle" dominant-baseline="central">预</text>
+  <rect x="622" y="382" width="62" height="62" rx="4" fill="#c8102e"/>
+  <text x="653" y="415" font-family="'Iowan Old Style','Songti SC','SimSun',serif" font-size="38" fill="#fdfcf9" text-anchor="middle" dominant-baseline="central">预</text>
+</svg>

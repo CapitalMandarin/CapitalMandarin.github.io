@@ -1,0 +1,5 @@
+# Canonical origin also lives in src/lib/constants.ts (SITE.url); keep in sync.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.capitalmandarinschool.com/sitemap-index.xml
